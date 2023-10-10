@@ -5,7 +5,7 @@ languageCode = "en"
 title = "Mehdi Bennouar"
 
 theme = "gokarna"
-themesDir = "gokarna/"
+themesDir = "."
 
 # Automatically generate robots.txt
 enableRobotsTXT = true
