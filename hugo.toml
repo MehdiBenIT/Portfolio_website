@@ -1,4 +1,4 @@
-baseURL = "http://portfolio-website-mehdiben.s3-website.us-east-2.amazonaws.com"
+baseURL = "http://portfolio-website-mehdiben.s3-website.us-east-2.amazonaws.com/"
 defaultContentLanguage = "en"
 languageCode = "en"
 
@@ -13,7 +13,7 @@ enableRobotsTXT = true
 [params]
   footer = "Mehdi Bennouar"
   description = "DevOps Engineer | AWS certified"
-  avatarURL = "avatar.jpg"
+  avatarURL = "avatar.jpg/"
   AvatarAltText = "avatar"
   avatarSize = "size-m"
   customHeadHTML = """
