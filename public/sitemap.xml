@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://portfolio.bennouar.com/categories/</loc>
+    <loc>http://portfolio-website-mehdiben.s3-website.us-east-2.amazonaws.com/categories/</loc>
   </url><url>
-    <loc>http://portfolio.bennouar.com/</loc>
+    <loc>http://portfolio-website-mehdiben.s3-website.us-east-2.amazonaws.com/</loc>
   </url><url>
-    <loc>http://portfolio.bennouar.com/projects/project1/</loc>
+    <loc>http://portfolio-website-mehdiben.s3-website.us-east-2.amazonaws.com/projects/project1/</loc>
   </url><url>
-    <loc>http://portfolio.bennouar.com/projects/</loc>
+    <loc>http://portfolio-website-mehdiben.s3-website.us-east-2.amazonaws.com/projects/</loc>
   </url><url>
-    <loc>http://portfolio.bennouar.com/tags/</loc>
+    <loc>http://portfolio-website-mehdiben.s3-website.us-east-2.amazonaws.com/tags/</loc>
   </url>
 </urlset>

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mehdi Bennouar</title>
-    <link>http://portfolio.bennouar.com/</link>
+    <link>http://portfolio-website-mehdiben.s3-website.us-east-2.amazonaws.com/</link>
     <description>Recent content on Mehdi Bennouar</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://portfolio.bennouar.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="http://portfolio-website-mehdiben.s3-website.us-east-2.amazonaws.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>project1</title>
-      <link>http://portfolio.bennouar.com/projects/project1/</link>
+      <link>http://portfolio-website-mehdiben.s3-website.us-east-2.amazonaws.com/projects/project1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://portfolio.bennouar.com/projects/project1/</guid>
+      <guid>http://portfolio-website-mehdiben.s3-website.us-east-2.amazonaws.com/projects/project1/</guid>
       <description>Overview This is a detailed description of the first project. The project began as an initiative to&amp;hellip;
 Objectives Objective 1: Describe the first objective in detail. Objective 2: Detail the second objective. Objective 3: And so on&amp;hellip; Technologies Used Backend: Technology 1, Technology 2 Frontend: Technology A, Technology B Database: Technology X Challenges Faced During the course of this project, several challenges were encountered:
 Challenge 1: Describe the first challenge. Challenge 2: Elaborate on the second challenge.</description>
